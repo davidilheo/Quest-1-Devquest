@@ -1,0 +1,26 @@
+*{
+    font-size: 20px;
+}
+
+p {
+    font-weight: bold;
+}
+
+.tabela-produtos-moda th {
+    background-color: #BB86FC;
+}
+
+.tabela-produtos-moda td {
+    background-color: #424250;
+    color: white;
+}
+
+.tabela-produtos-casa th {
+    background-color: #00C4B4
+    ;
+}
+
+.tabela-produtos-casa td {
+    background-color: #424250;
+    color: white;
+}
